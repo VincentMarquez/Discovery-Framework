@@ -88,10 +88,9 @@ This work relies on idealized simulations, with assumptions like constant noise 
 
 
 ## Supplementary Materials
-- Full Python code for bifurcation and quantum analysis (enhanced_fractal_analysis2.py).  
-- Full Python code for map discovery (emergent_novel_math_discovery.py).  
-- Raw data log (emergent_novel_math_20250716.log).  
-- High-resolution figures.  
+- Full Python code for bifurcation and quantum analysis 
+- Full Python code for map discovery  
+- High-resolution figures
 
 The codes and data have been uploaded to https://github.com/VincentMarquez/nonlinear-optical-cavities for reproducibility.
 
@@ -101,7 +100,7 @@ Figure 2: Intensity dynamics and phase-space trajectories for the cavity model, 
 Figure 3: Quantum simulation results showing mean intensity, second-order correlation \( g^{(2)}(0) \), quantum state purity, and sample trajectories.  
 Figure 4: Fractal visualization of the escape-time basin for Experiment 6178 in the complex plane for parameter \( c \). The intricate structure highlights the map's non-trivial dynamics.
 
-## References
+## References (In the works still)
 [0] Carmichael, H. J. et al. Optical bistability and photon statistics in cavity quantum electrodynamics. Phys. Rev. Lett. 67, 1727 (1991).  
 [1] Mabuchi, H. Quantum trajectory simulation of the mean intracavity photon number for a driven optical resonator including a Kerr nonlinear medium. arXiv:1101.3461 (2011).  
 [3] Garrahan, J. P. et al. Remnants of semiclassical bistability in the few-photon regime of cavity QED. Opt. Express 19, 24468 (2011).  
