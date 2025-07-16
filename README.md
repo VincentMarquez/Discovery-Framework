@@ -124,5 +124,3 @@ Figure 4: Fractal visualization of the escape-time basin for Experiment 6178 in 
 
 ## References (In the works still)
 
-[23] Nielsen, M. A. et al. Quantum Computing for nonlinear differential equations and chaotic dynamics. arXiv:2406.04826 (2024).  
-[24] Adesso, G. et al. Quantum-Classical Hybrid Systems and their Quasifree Transformations. Quantum 7, 1068 (2023).
