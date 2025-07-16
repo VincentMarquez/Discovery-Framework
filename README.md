@@ -5,6 +5,29 @@ Vincent Marquez
 ORCID id: 0009-0003-5385-056X  
 Date: July 16, 2025  
 
+
+Novelty Statement
+This work presents a fundamentally new approach to the discovery and classification of discrete dynamical systems by systematically fusing classical nonlinear dynamics with quantum-inspired mathematical terms. Specifically, we introduce and explore a vast landscape of hybrid iterative maps that combine traditional polynomial evolution with quantum-motivated features such as state normalization and complex phase rotations. This methodology departs significantly from the conventional focus on classical polynomial or rational maps (e.g., Mandelbrot and Julia sets), enabling the exploration of dynamics that cannot be accessed by classical terms alone.
+
+Through large-scale computational search and automated novelty scoring, we identify and characterize a new regime of “frustrated fractal” behavior, wherein orbits are prevented from escaping to infinity due to quantum normalization, leading to the emergence of bounded, highly-structured transient dynamics and novel attractor types. Our work further provides a quantitative, reproducible pipeline for evaluating emergent phenomena—such as the appearance of oscillatory, fixed-point, or unexpectedly stabilized states—across thousands of candidate systems.
+
+To our knowledge, this is the first systematic demonstration of:
+
+(i) The generation and classification of hybrid classical/quantum iterative maps with nontrivial emergent behaviors,
+
+(ii) The discovery of frustrated fractal basins arising from quantum-inspired capping or normalization,
+
+(iii) An automated search-and-classify methodology for emergent dynamics in hybrid systems.
+
+These results not only enrich the theory of complex systems and fractal dynamics but also suggest practical applications in the design of engineered quantum systems, neural networks, and unconventional computing architectures.
+
+
+
+
+
+
+
+
 ## Abstract
 This study presents a detailed examination of a nonlinear optical cavity model that incorporates Kerr nonlinearity, saturable gain, and coherent driving. The analysis encompasses the classical bifurcation structure and quantum statistical properties of the system. Employing a mean-field approach, the investigation maps regions of optical bistability and evaluates the influence of time-delayed feedback on stability. Quantum trajectory simulations indicate a transition from thermal to coherent photon statistics. Extending the scope beyond this physical model, a computational framework is introduced for the autonomous discovery of novel discrete-time maps that integrate classical and quantum-inspired mathematical terms. This framework, applied across 10,000 unique equations, identifies a class of systems exhibiting complex transient behaviors and fractal escape sets, exemplified by the top-ranked discovery designated as Experiment 6178. The findings elucidate the interplay among nonlinearity, dissipation, and feedback in both physical and mathematical models, while suggesting avenues for future research in engineered nonlinear systems.
 
