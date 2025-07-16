@@ -101,22 +101,6 @@ Figure 3: Quantum simulation results showing mean intensity, second-order correl
 Figure 4: Fractal visualization of the escape-time basin for Experiment 6178 in the complex plane for parameter \( c \). The intricate structure highlights the map's non-trivial dynamics.
 
 ## References (In the works still)
-[0] Carmichael, H. J. et al. Optical bistability and photon statistics in cavity quantum electrodynamics. Phys. Rev. Lett. 67, 1727 (1991).  
-[1] Mabuchi, H. Quantum trajectory simulation of the mean intracavity photon number for a driven optical resonator including a Kerr nonlinear medium. arXiv:1101.3461 (2011).  
-[3] Garrahan, J. P. et al. Remnants of semiclassical bistability in the few-photon regime of cavity QED. Opt. Express 19, 24468 (2011).  
-[4] Wang, Y. et al. Photon statistics on the extreme entanglement. Sci. Rep. 6, 24098 (2016).  
-[5] Magaña-Loaiza, O. S. et al. Bifurcation of fundamental Gaussian modes in Kerr-lens mode-locked lasers. Opt. Commun. 164, 165 (1999).  
-[6] Wang, Z. et al. Capturing Nonlinear Dynamics and Optical Thermodynamics. ACS Photonics (2025).  
-[7] Lugiato, L. A. et al. Multidimensional localized states in externally driven Kerr cavities with anomalous dispersion. Chaos Solitons Fractals 184, 114954 (2024).  
-[9] Grelu, P. et al. Spontaneous symmetry breaking and the dynamics of three interacting modes with embedded parity-time symmetry. Phys. Rev. E 105, 034203 (2022).  
-[10] Akhmediev, N. et al. Bifurcation and Stability Analysis of Pulsating Solitons. ResearchGate (2018).  
-[12] Lippi, G. L. et al. Temporal dissipative structures in optical Kerr resonators with loss modulation. Opt. Express 29, 35776 (2021).  
-[13] Kaur, S. et al. Intrinsic optical bistability via switching between saturable and reverse saturable absorption. Sci. Rep. 15, 86620 (2025).  
-[15] Wigner, E. P. et al. Chaotic and fractal maps in higher-order derivative dynamical systems. Front. Phys. 12, 1529644 (2025).  
-[16] Milnor, J. et al. Fractal sets attached to homogeneous quadratic maps in two variables. Physica D 321, 1 (2013).  
-[17] Barnsley, M. et al. Bounded complexity approximation of fractal sets. J. Comput. Dyn. (2024).  
-[20] Gross, D. et al. Effective nonlinear Ehrenfest hybrid quantum-classical dynamics. Eur. Phys. J. Plus 138, 657 (2023).  
-[21] Eleuch, H. et al. Numerical solution of nonlinear Schrödinger equation by a hybrid pseudospectral-variational quantum algorithm. Sci. Rep. 15, 05660 (2025).  
-[22] Breuer, H.-P. et al. Hybrid completely positive Markovian quantum-classical dynamics. Phys. Rev. A 107, 062206 (2023).  
+
 [23] Nielsen, M. A. et al. Quantum Computing for nonlinear differential equations and chaotic dynamics. arXiv:2406.04826 (2024).  
 [24] Adesso, G. et al. Quantum-Classical Hybrid Systems and their Quasifree Transformations. Quantum 7, 1068 (2023).
