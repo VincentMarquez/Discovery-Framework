@@ -1,10 +1,15 @@
 A Physics-Inspired Design Paradigm for Novel Dynamics in Non-Holomorphic Maps (Revised)
 
 Author: Vincent Marquez
+
 Contact: vincentmarquez40@yahoo.com
+
 GitHub: https://github.com/VincentMarquez
+
 ORCID: 0009-0003-5385-056X
+
 Date: July 17, 2025
+
 Abstract
 
 This study introduces and validates a design paradigm for discovering complex dynamical systems by repurposing mathematical operators from physical models. We begin with a foundational analysis of a driven nonlinear optical cavity, then deconstruct its governing equation into functional components to engineer a novel class of discrete-time maps. The resulting systems are non-holomorphic, a property essential for their unique dynamics. We term the emergent behavior "frustrated dynamics": the generation of intricate, stable, quasi-periodic orbits arising from a balance between nonlinear expansion and a countervailing, magnitude-dependent recoil. A computational search of 10,000 map variations, seeded by 10 distinct, physics-inspired equations, was conducted to validate the paradigm. The results suggest that this principled design is a highly effective route to generating structured stability. We conclude by discussing the properties of this dynamical class, proposing a schematic for physical realization, and providing a more nuanced stability analysis that accounts for the observed local boundedness.
